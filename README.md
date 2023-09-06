@@ -7,22 +7,20 @@ Ce projet contient une série d'exercices simples conçus pour aider les débuta
 1. Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/exercices-javascript-debutants.git
+   git clone https://github.com/webtoma/javascript-basics.git
    ```
 
 2. Naviguez dans le répertoire du projet :
 
     ```bash
-    cd exercices-javascript-debutants
+    cd javascript-basics
     ```
 
-3. Ouvrez le fichier exercices.js dans votre éditeur de code préféré. C'est ici que vous effectuerez la plupart des exercices.
+3. Ouvrez les fichiers README.md de chaque dossier pour réaliser les exercices dans votre éditeur de code préféré.
 
-4. Lisez les commentaires dans le fichier exercices.js pour comprendre chaque exercice. Complétez le code manquant pour résoudre les problèmes posés.
+4. Testez vos solutions en ouvrant le fichier index.html dans un navigateur web. Les résultats de chaque exercice s'afficheront dans la console du navigateur. Vous pouvez aussi utiliser le site JSBin pour tester votre code.
 
-5. Testez vos solutions en ouvrant le fichier index.html dans un navigateur web. Les résultats de chaque exercice s'afficheront dans la console du navigateur. Vous pouvez aussi utiliser le site JSBin pour tester votre code.
-
-6. Continuez à travailler sur les exercices, modifiez le code, expérimentez et apprenez !
+5. Continuez à travailler sur les exercices, modifiez le code, expérimentez et apprenez !
 
 
 ## Contribution
